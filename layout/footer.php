@@ -119,7 +119,7 @@
 
     <!-- Custom scripts for this template -->
     <script src="js/freelancer.min.js"></script>
-    <?php echo "end of footer";?>
+    <?php echo "end of file";?>
   </body>
 
 </html>
